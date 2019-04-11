@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Title</key>
+		<string>Stronglifts</string>
+		<key>Exercise List</key>
+		<string>
+    Workout A
+    
+        Squat - 5x5
+        Bench Press - 5x5
+        Barbell Row - 5x5
+        
+    Workout B
+    
+        Squat - 5x5
+        Overhead Press - 5x5
+        Deadlift - 1x5
+        
+    Instructions:
+    
+        3 days per week.
+        Rest between each day.
+        Switch each week from ABA to BAB.
+        </string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Candito Linear Progression</string>
+		<key>Exercise List</key>
+		<string>
+    Monday (Heavy)
+    
+        Squat - 3x6
+        Deadlift - 2x6
+        Leg Press - 3x8 - 12
+        Hamstring Curls - 3x8 - 12
+        
+    Tuesday (Heavy)
+    
+        Bench Press - 3x6
+        Dumbbell Row - 3x6
+        Overhead Press - 1x6
+        Lat Pulldown - 1x6
+        Face Pulls - 3x8 - 12
+        Close Grip Bench Press - 3x8 - 12
+        
+    Thursday (Control)
+    
+        Pause Squat - 6x4
+        Pause Deadlift - 3x4
+        Hamstring Curls - 3x8 - 12
+        Single-leg Leg Press - 3x8 - 12
+    
+    Friday (Control)
+    
+        Spoto Press - 6x4
+        Pause Weighted Pull-up - 6x4
+        Seated DB Press - 1x10
+        Dumbbell Row - 1x10
+        Lateral Raise - 3x8 - 12
+        DB Bicep Curl - 3x8 - 12
+        
+    Instructions:
+    
+        4 days per week.
+        Rest on Wednesday and Weekends.
+        </string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>5/3/1 Boring But Big</string>
+		<key>Exercise List</key>
+		<string>
+    Monday
+    
+        Overhead Press - sets of 5/3/1
+        Overhead Press - 5x10
+        Lat Work - 5x10
+        
+    Tuesday
+    
+        Deadlift - sets of 5/3/1
+        Deadlift - 5x10
+        Abs - 5 sets
+        
+    Thursday
+    
+        Bench Press - sets of 5/3/1
+        Bench Press - 5x10
+        Lat Work - 5x10
+        
+    Friday
+    
+        Squat - sets of 5/3/1
+        Squat - 5x10
+        Abs - 5 sets
+        
+    Instructions:
+    
+        4 days per week.
+        Rest on Wednesday and Weekends.
+        </string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>IceCream Fitness</string>
+		<key>Exercise List</key>
+		<string>
+    Workout A
+    
+        Squat - 5x5
+        Bench Press - 5x5
+        Bentover Row 5x5
+        Barbell Shrugs - 3x8
+        Tricep Extensions - 3x8
+        Straight Bar Curls - 3x8
+        Hyperextensions - 2x10
+        Cable Crunches - 3x10
+        
+    Workout B
+    
+        Squat - 5x5
+        Deadlift - 1x5
+        Overhead Press 5x5
+        Close Grip Bench Press - 3x8
+        Incline Curls - 3x8
+        Cable Crunches - 3x10
+        
+    Instructions:
+    
+        3 days per week.
+        Rest between each day.
+        Switch each week from ABA to BAB.
+        </string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Greyskull Linear Progression</string>
+		<key>Exercise List</key>
+		<string>
+    Monday
+    
+        Bench or Press (A/B) - 2x5, 1x5+
+        Curl - 2x10 - 15 (Bench days)
+        Squat - 2x5, 1x5+
+        Neck Harness
+        
+    Wednesday
+    
+        Bench or Press 2x5, 1x5+
+        Weighted Chins - 2x6 - 8
+        Deadlift - 1x5+
+        Neck Harness
+        
+    Friday
+    
+        Bench or Press (A/B) - 2x5, 1x5+
+        Curl - 2x10 - 15 (Bench days)
+        Squat - 2x5, 1x5+
+        Neck Harness
+        
+    Instructions:
+        
+        3 days per week.
+        Rest between each day.
+        </string>
+	</dict>
+</array>
+</plist>

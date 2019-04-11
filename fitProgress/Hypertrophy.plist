@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Title</key>
+		<string>P.H.U.L.</string>
+		<key>Exercise List</key>
+		<string>
+    Monday - Upper Power
+    
+        Barbell Bench Press - 3x3 - 5
+        Incline DB Bench Press - 3x6 - 10
+        Bentover Row - 3x3 - 5
+        Lat Pulldown - 3x6 - 10
+        Overhead Press - 3x5 - 8
+        Barbell Curl - 3x6 - 10
+        Skullcrusher - 3x6 - 10
+        
+    Tuesday - Lower Power
+    
+        Squat - 4x3 - 5
+        Deadlift - 3x3 -5
+        Leg Press - 3x10 - 15
+        Leg Curl - 3x6 - 10
+        Calf Raise - 4x6 - 10
+    
+    Thursday - Upper Hypertrophy
+    
+        Incline Barbell Bench Press - 3x8 - 12
+        Flat Bench DB Fly - 3x8 - 12
+        Seated Cable Row - 3x8 - 12
+        One-Arm DB Row - 3x8 - 12
+        Lateral Raise - 3x8 - 12
+        Seated Incline DB Curl - 3x8 - 12
+        Tricep Extension - 3x8 - 12
+        
+    Friday - Lower Hypertrophy
+    
+        Front Squat - 3x8 - 12
+        Barbell Lunge - 3x8 - 12
+        Leg Extension - 3x10 - 15
+        Leg Curl - 3x10 - 15
+        Seated Calf Raise - 3x8 - 12
+        Calf Press - 3x8 - 12
+        
+    Instructions:
+    
+        4 days per week.
+        Rest on Wednesday and weekends.
+        </string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Coolcicada's Push/Pull/Legs</string>
+		<key>Exercise List</key>
+		<string>
+    Push (Chest/Triceps/Shoulders)
+    
+        Flat Barbell Bench Press - 3x5
+        Overhead Press - 3x5
+        Incline Barbell Bench Press - 3x5
+        Lateral Raise - 3x10 - 12
+        Rope Pushdown - 3x10 - 12
+        Overhead DB Extension - 3x10 - 12
+        Shrugs - 3x10 - 12
+        
+    Pull (Back/Biceps)
+    
+        Barbell Row - 3x5
+        Lat Pulldown - 3x8 - 10
+        Seated Row - 3x8 - 10
+        Face Pull - 3x10 - 12
+        Barbell Bicep Curl - 4x10 - 12
+        Hammer Curl - 3x10 - 12
+        
+    Legs (Quad/Hamstring/Calf)
+    
+        Squat - 4x5 - 6
+        Leg Press - 3x8 - 10
+        Leg Extension - 3x10 - 12
+        Hamstring Curl - 3x10 - 12
+        Standing Calf Raise - 5x10 - 12
+        
+    Instructions:
+    
+        6 days per week.
+        Push/Pull/Legs/REST/Push/Pull/Legs
+        OR
+        Push/Pull/Legs/Push/Pull/Legs/REST
+    </string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Linear Progression Push/Pull/Legs</string>
+		<key>Exercise List</key>
+		<string>
+    Pull
+    
+        Deadlift - 1x5+
+        Barbell Row - 4x5, 1x5+
+        Pullup - 3x8 - 12
+        Seated Cable Row - 3x8 - 12
+        Face Pull - 5x15 - 20
+        Hammer Curl - 4x8 - 12
+        Dumbbell Curl - 4x8 - 12
+        
+    Push
+    
+        Bench Press 4x5, 1x5+
+        Overhead Press 3x8 - 12
+        Incline DB Press - 3x8 - 12
+        Tricep Pushdown - 3x8 - 12
+        Lateral Raise - 3x15 - 20
+        Overhead Tricep Extension - 3x8 - 12
+        
+    Legs
+    
+        Squat - 2x5, 1x5+
+        Romanian Deadlift - 3x8 - 12
+        Leg Press - 3x8  - 12
+        Leg Curl - 3x8 - 12
+        Calf Raise - 5x8 - 12
+        
+    Instructions:
+    
+        6 days per week.
+        Push/Pull/Legs/REST/Push/Pull/Legs
+        OR
+        Push/Pull/Legs/Push/Pull/Legs/REST
+        </string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>The Bulking Routine</string>
+		<key>Exercise List</key>
+		<string>
+    Monday - Lower
+    
+        Squat - 3x6 - 8
+        Leg Curl - 3x6 - 8
+        Leg Press - 2x10 - 12
+        Lying Hamstring Curl - 3x10 - 12
+        Standing Calf Raise - 3x6 - 8
+        Seated Calf Raise - 2x10 - 12
+        
+    Tuesday - Upper
+    
+        Flat Barbell Bench Press - 3x6 - 8
+        Barbell Row - 3x6 - 8
+        Incline Bench Press - 3x10 - 12
+        Overhead Press - 3x10 - 12
+        Tricep Pushdown - 2x12 - 15
+        DB Bicep Curl - 2x12 - 15
+        
+    Thursday - Repeat Lower
+    
+    Friday - Repeat Upper
+    
+    Instructions:
+    
+        4 days per week.
+        Repeat Mon/Tue workouts on Thu/Fri.
+        </string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>DLTBB Split</string>
+		<key>Exercise List</key>
+		<string>
+    Chest and Biceps (A)
+    
+        Flat Barbell Bench Press - 4x6 - 8
+        Decline Bench Press - 3x8 - 10
+        Incline DB Fly - 3x8 - 10
+        Dumbbell Pullover - 3x8 - 10
+        Standing Barbell Curl - 4x6 - 8
+        Preacher Curl - 4x8 - 10
+        
+    Back and Triceps (A)
+    
+        Weighted Pullup - 4x8 - 10
+        Bentover Row - 3x6 - 8
+        Rack Pull - 3x6 - 8
+        Hyperextension - 4x10
+        Tricep Extension - 4x6 - 8
+        Tricep Pushdown - 4x8 - 10
+        
+    Shoulders and Legs (A)
+    
+        Seated Barbell Press - 4x6 - 8
+        Lateral Raise - 3x8 - 10
+        Face Pull - 3x10
+        Barbell Shrug - 4x8 - 10
+        Squat - 4x6 - 8
+        Single Hamstring Curl - 4x8 - 10
+        Standing Calf Raise - 4x10
+        
+    Chest and Biceps (B)
+    
+        Incline DB Press - 4x6 - 8
+        Decline Bench Press - 3x8 - 10
+        Flat Dumbbell Fly - 3x8 - 10
+        Dumbbell Pullover - 3x8 - 10
+        Dumbbell Hammer Curl - 4x6 - 8
+        Concentration Curl - 4x8 - 10
+        
+    Back and Triceps (B)
+    
+        Underhand Grip Pulldown - 4x8 - 10
+        Seated Cable Row - 3x6 - 8
+        One-Arm DB Row - 3x6 - 8
+        Hyperextension - 4x10
+        Close Grip Bench Press - 4x6 - 8
+        Skullcrusher - 4x6 - 8
+        
+    Shoulders and Legs (B)
+    
+        Seated DB Press - 4x6 - 8
+        Inverted Row - 4x10
+        Lateral Cable Raise - 4x10
+        Dumbell Shrug - 4x8 - 10
+        Stiff-Legged Deadlift - 4x6 - 8
+        Machine Hack Squat - 4x8 - 10
+        Seated Calf Raise - 4x10
+        
+    Instructions:
+    
+        6 days per week.
+        Perform A workouts then B workouts.
+        Push/Pull/Legs/REST/Push/Pull/Legs
+        OR
+        Push/Pull/Legs/Push/Pull/Legs/REST
+        </string>
+	</dict>
+</array>
+</plist>
