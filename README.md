@@ -7,6 +7,6 @@ fitProgress the following features:
 - Weight logger to track progress
 
 Todo:
-[]Fix graphing feature
-[]Implement AutoLayout
-[]Refactor code
+[ ] Fix graphing feature
+[ ] Implement AutoLayout
+[ ] Refactor code
